@@ -1,0 +1,7 @@
+[package]
+name = "bauth-sleuth"
+version = "0.1.0"
+authors = ["hyperopid"]
+edition = "2018"
+
+[dependencies]
