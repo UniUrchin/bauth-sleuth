@@ -6,6 +6,7 @@ edition = "2018"
 
 [dependencies]
 anyhow = "1.0.52"
+base64 = "0.13.0"
 chrono = "0.4.19"
 combine = "4.6.2"
 etherparse = "0.10.1"
