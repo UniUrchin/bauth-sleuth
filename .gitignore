@@ -2,4 +2,4 @@
 /testfile
 /pcapfile
 
-log.txt
+./log.txt
